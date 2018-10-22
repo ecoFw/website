@@ -1,0 +1,21 @@
+---
+title: 'Sassafrass a disenfranchised southern staple'
+author: ~
+date: '2018-06-13'
+slug: sassafras
+categories:
+  - foodways
+tags:
+  - sassafras
+  - southern
+  - plants
+description: ''
+featured: ''
+featuredalt: ''
+featuredpath: ''
+linktitle: ''
+---
+
+# Ecology
+
+Understory tree often occurring at margins.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foodways on Ecological Foodways</title>
+    <link>/tags/foodways/</link>
+    <description>Recent content in Foodways on Ecological Foodways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/foodways/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>agri-urban dynamics</title>
+      <link>/post/agri-urban-dynamics/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/agri-urban-dynamics/</guid>
+      <description>The connection of urban evolution to shifting foodways Topics:
+ The Green Revolution: decline in labor demand and consolidation of farmlands lead to migration of farm workers to urban centers and character of cities at different scales The Civil War and Pacific Imperialism: the fight over slavery driven practices of the south lead to a transition of plantation agrictulture in the south pacific islands controlled by US interests American colonial land aquisition: disenfranchisement of First Peoples of the Americas were strongly dictated by perspectives on food and land-use, with Spanish, British, French and Dutch, and eventually United States, interests dominating.</description>
+    </item>
+    
+  </channel>
+</rss>
