@@ -9,56 +9,22 @@ stars..." - Walt Whitman
 "Knowledge is knowing that a tomato is a fruit, wisdom is not putting
 it in a fruit salad." - Miles Kington
 
-Ecological foodways: eating, cooking and culinairy practices that
-connect humans to the natural world.
+
+Ecological Foodways: cultural practices that connect humans to the
+natural world through what they eat.
+
+The primary limiting factor in food sustainability is consumer
+knowledge. Given the impact that food decisions have on the world,
+connecting people to their food should be a priority. 
 
 Through historical research, interviews and data journalism
 *Ecological Foodways* approaches stories about how our food connects
 us to our world.
 
 
-# Over-arching Themes
+<!-- For more information, checkout the efw/projects/ecofoodways/projects/outreach.Rmd -->
 
-- Sustainability
-- Systems
-- Provenance
-- Data journalism
-- Traditional Ecological Knowledge
-- Translational Ecology
-- Thriving within Limits to Growth
-- Culinairy traditions
-- Food for education
 
-# Topics
-
-- Taste and Smell overlooked senses
-- First Peoples
-- Forgotten foods
-- Culinary traditions and transitions
-- Landscapes
-- Colonialism
-- Western expansion
-- Imperialism
-- Industrialism
-- Ecosystem engineers and Foundation species
-- Hunting
-- Fishing
-- Gathering
-- Foraging
-- Farming
-- Buffalo
-- Shad
-
-# Devloping Episodes
-
-- What forces have disconnected ecological foodways?
-- What have we gained?
-- What have we lost?
-- Pineapple is a Colonial Food: North, South and Far Far West
-- First Light Oysters and Ecological Foodways of Cape Cod
-- The Hawaiian Moku-Ahupua'a ecological districting system
-- Hopi agricultural system
-- Chesepeake Bay Native Americans
 
 
 <!-- Hugo is a static site engine written in Go. -->

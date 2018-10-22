@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/agri-urban-dynamics/</loc>
+    <loc>/draft/agri-urban-dynamics/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/agri-urban-dynamics/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-06-17-ahupuaa/</loc>
+    <loc>/draft/2018-06-17-ahupuaa/</loc>
     <lastmod>2018-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/sassafras/</loc>
+    <loc>/draft/sassafras/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/poke-sallet.rmd/</loc>
+    <loc>/draft/poke-sallet.rmd/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft/2018-06-12-pineapple/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,6 +80,12 @@
   </url>
   
   <url>
+    <loc>/draft/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -98,14 +104,14 @@
   </url>
   
   <url>
-    <loc>/categories/foodways/</loc>
-    <lastmod>2018-06-17T00:00:00+00:00</lastmod>
+    <loc>/tags/foodways/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/foodways/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <loc>/categories/foodways/</loc>
+    <lastmod>2018-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,7 +159,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
