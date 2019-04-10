@@ -16,5 +16,7 @@ navbar:
 exclude: ["CHECKLIST.md", "README", "empty.Rmd"]
 output:
   html_document:
+    theme: journal
+#    highlight: textmate # syntax highlighting
     include:
       after_body: footer.html
