@@ -1,0 +1,20 @@
+name: "Ecological Foodways"
+output_dir: "_site"
+navbar:
+  title: "Ecological Foodways"
+  left:
+    - text: ""
+      href: index.html
+    - text: "About"
+      href: about.html
+    # - text: "Syllabus"
+    #   href: syllabus.html
+    - text: "Lectures"
+      href: lectures.html
+    # - text: "Handouts"
+    #   href: handouts.html
+exclude: ["CHECKLIST.md", "README", "empty.Rmd"]
+output:
+  html_document:
+    include:
+      after_body: footer.html
