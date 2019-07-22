@@ -1,6 +1,9 @@
 ---
 title: "Ecological Foodways: Explore Your World Through Flavor"
 ---
+-------------------------------------------------------------------------------
+
+![efw:ecological_foodways](img/ecology-food-culture.png)
 
 Eating is inherently an ecological act. Although the need and desire
 to connect to food is increasing, urbanization and globalization
@@ -136,3 +139,5 @@ Contact: MLau@Lasell.edu
 <!-- * /Meat Eater/ “North American Model of Wildlife Conservation” https://m.youtube.com/watch?v=ukqzPNckrbg&list=PLrwvK9BVMF2dsVaJBQc_jBfMcIwUHczGa&index=27&t=0s -->
 <!-- * /The Sioux Chef/ http://sioux-chef.com/social/ -->
 <!-- * /Zagat: North America’s Original Cuisine/ https://m.youtube.com/watch?feature=youtu.be&v=uAvPUBS3EFg -->
+
+-------------------------------------------------------------------------------

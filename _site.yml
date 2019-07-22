@@ -5,20 +5,20 @@ navbar:
   left:
     - text: ""
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Syllabus"
-      href: syllabus.html
-    - text: "Lectures"
-      href: lectures.html
+      href: index.html
+    - text: "Notes"
+      href: notes.html
     - text: "Handouts"
       href: handouts.html
     - text: "Readings"
       href: readings.html
+    - text: "About"
+      href: about.html
 exclude: ["CHECKLIST.md", "README", "empty.Rmd"]
 output:
   html_document:
     theme: journal
 #    highlight: textmate # syntax highlighting
-    include:
-      after_body: footer.html
+    # include:
+    #   after_body: footer.html

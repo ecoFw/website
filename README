@@ -1,7 +1,11 @@
 Ecological Foodways Website
 ---------------------------
 
-This website is a test website for a course on ecological foodways.
+- This website uses the *rmarkdown*.
+- Use `rmarkdown::render_site()` to generate the website.
+- *_site* is the rendered webpage and can be copied to host server. 
+
+
 
 This is a source for the creative commons license: https://creativecommons.org.
 

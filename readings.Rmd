@@ -1,20 +1,21 @@
 ---
-title: ""
+title: "Readings for the class organized by week"
 ---
+-------------------------------------------------------------------------------
 
-# Week 1 
+## Week 1 
 
-- [Barber 1-22](pdf/Barber1-22.pdf "Download")
-- [Davis (in Kurlansky) 80-84](pdf/Kurlansky-Davis-80-84.pdf "Download")
-- [Shepherd 11-32](pdf/Shepherd11-32.pdf "download")
+- [Barber 1-22](pdf/readings/Barber1-22.pdf "Download")
+- [Shepherd 11-32](pdf/readings/Shepherd11-32.pdf "download")
+- [Davis (in Kurlansky) 80-84](pdf/readings/Kurlansky-Davis-80-84.pdf "Download")
 
-<!-- # Week 2 -->
+<!-- ## Week 2 -->
 
 <!-- Barber78-99.pdf -->
 <!-- Shepherd66-75_99-105.pdf -->
 <!-- Shepherd109-116.pdf -->
 
-<!-- # Week 3 -->
+<!-- ## Week 3 -->
 
 <!-- Barber234-250.pdf -->
 <!-- Shepherd155-162.pdf 	 -->
@@ -22,13 +23,14 @@ title: ""
 <!-- Shepherd210-211.pdf 	 -->
 
 
-<!-- # Week 4 -->
+<!-- ## Week 4 -->
 
-<!-- # Week 5 -->
+<!-- ## Week 5 -->
 <!-- Cronon54-81.pdf -->
 
-<!-- # Week 6 -->
+<!-- ## Week 6 -->
 <!-- Barber428-447.pdf -->
 
+-------------------------------------------------------------------------------
 
 
