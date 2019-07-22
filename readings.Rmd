@@ -1,6 +1,10 @@
 ---
-title: "Readings for the class organized by week"
+title: "Readings for Class"
 ---
+
+<!-- ![](img/thirdplate.png)  -->
+
+
 -------------------------------------------------------------------------------
 
 ## Week 1 
@@ -33,4 +37,5 @@ title: "Readings for the class organized by week"
 
 -------------------------------------------------------------------------------
 
+![](img/feedlot_red.jpg)
 
