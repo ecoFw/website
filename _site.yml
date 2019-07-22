@@ -7,12 +7,14 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    # - text: "Syllabus"
-    #   href: syllabus.html
+    - text: "Syllabus"
+      href: syllabus.html
     - text: "Lectures"
       href: lectures.html
-    # - text: "Handouts"
-    #   href: handouts.html
+    - text: "Handouts"
+      href: handouts.html
+    - text: "Readings"
+      href: readings.html
 exclude: ["CHECKLIST.md", "README", "empty.Rmd"]
 output:
   html_document:

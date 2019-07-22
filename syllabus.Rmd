@@ -1,238 +1,138 @@
 ---
-Title: "Syllabus"
+title: "Ecological Foodways: Explore Your World Through Flavor"
 ---
 
--------------------------------------------------------------------------------
+Eating is inherently an ecological act. Although the need and desire
+to connect to food is increasing, urbanization and globalization
+continue to increase the distance between people and their
+food. Concomitantly, findings from the new field of neurogastronomy
+suggests that food and, especially, flavor have previously
+unrecognized impacts on how we perceive and value the world. 
 
-# *Instructor*: Matthew K. Lau, PhD.
+Through a synthesis of current topics in ecology, culinary arts and
+the newly developing field of neurogastronomy, this course will:
 
-This course will be part ecological seminar and part culinary
-education class. Through lectures, food labs and field trips students
-will learn about food and the important ways in which it connects us
-to nature.
+- Introduce the topic of ecological foodways (i.e. how food links
+  humans and nature).
+- Explore the underlying neurological and physiological basis of
+  flavor and how it influences our world.
+- Improve culinary and tasting abilities through hands-on exercises.
 
-*Before Class*
-- Fill out the food survey and liability waiver
-- Obtain a lined notebook and pen or pencil
+## Meetings
 
-*Videos:*
-- Julia Child
-- http://www.phaidon.com/agenda/food/video/2010/december/16/the-hen-and-the-egg-rene-redzepis-signature-dish/ 
-- _Meat Eater_ “Origins of Conservation: New Mexico Turkey
-- _Meat Eater_ “Why eat game from the land where you hunt” https://m.youtube.com/watch?v=9ZAdi7qPo8w&t=0s&list=PLrwvK9BVMF2dsVaJBQc_jBfMcIwUHczGa&index=14
-- _Meat Eater_ “North American Model of Wildlife Conservation” https://m.youtube.com/watch?v=ukqzPNckrbg&list=PLrwvK9BVMF2dsVaJBQc_jBfMcIwUHczGa&index=27&t=0s
-- _The Sioux Chef_ http://sioux-chef.com/social
-- _Zagat: North America’s Original Cuisine_ https://m.youtube.com/watch?feature=youtu.be&v=uAvPUBS3EFg
+- Thursdays 3:30pm-5:00pm from July 18 to August 22. 
+- Lasell Village, Froebel 103C
+- We will start each day with a brief presentation and discussing a
+  topic for the day.
+- The rest of the class will be devoted to activities primarily aimed
+  at developing culinary and tasting skills related to the topic.
 
-## Meeting 1
+## Required Materials
 
-Eating is a fundamental ecological interaction
-
-* Early Life and chemo-sensory awareness
-* Ecological Concepts = Food webs
-* Food and human development
-* Food Shapes Landscapes
-* Overview of Environmental issues: Conservation, Management,
-  Extinctions, Pollution, Genetic Modification
-* Neurogastronomy
-
-	Sources: 
-			- Charles Darwin “On the Origin of Species”
-			- Michael Pollan “The Omnivore’s Dilemma”
-			- Michael Pollan “The Botany of Desire”
-			- Jonah Lehrer “Proust was a Neuroscientist: The Essence of Taste”
-			- Gordon M. Shepherd: “Neurogastronomy”
-			- Williams and Stevenson: “Learning to SMELL”
-			- Paul Greenburg “Four Fish”
-			- Dan Barber “The Third Plate”
-			- E.O. Wilson “Half Earth”
-	_Take-Home/: We both can and should know more about how flavor influences our connection to nature.
-
-## Meetings 2-3
-
-A Brief History of Food and Eating in the Americas
-	Overview:
-			* Pre-colonial America
-			* Colonization
-			* Industrialization
-			* Hunting and the Roots of the Land Ethic and Conservation
-			* The Green Revolution and Its Silent Spring
-	Sources: 
-			- Steven Rinella “American Buffalo: Chapter 1”	
-			- James E. McWilliams “A Revolution in Eating”	
-			- Henry David Thoreau “Wild Fruits” 
-			- The Pineapple: A Pacific Industry	
-			- Mark Kurlansky “Food of a Younger Land”				
-			- Rachel Carson “Silent Spring”
-			- Aldo Leopold “The Land Ethic”
-
-## Meetings 4-5
-
-The Parallel Development of Modern Cuisine and Ecology
-	Overview: 
-			* Cuisine and its French Origins from Escoffier to 
-			* Changes on the Land and the Plate: Industry Impacts Cuisine
-			* Back to the Land and Other Food Movements
-			* Molecular Gastronomy
-			* The Rise of the Chef
-			* Culinary “Re-wilding”?
-			* Eco-culinary Concepts: Terroir
-	Sources: 
-			- Jean Anselm Brillat-Savarin “The Physiology of Taste”
-			- Auguste Escoffier “Le Guide Cuilinare”
-			- Julia Child _et al._ “Mastering the Art of French Cooking“ 
-			- Magnus Nilsson “How to Eat a Pine Forest”
-			- René Redzepi: “NOMA”
-			- Sean Sherman and Beth Dooley "The Sioux Chef"
-			- Pascal Baudar “Preserving — A Forager’s Perspective”
-			- Russ Cohen “Shooting Your Supper”
-			- “New England Food Vision”
-			- “The Problem of Changing Food Habits”
-			
-## Meeting 6
-Food and Memory Discussion
-Overview: Everyone brings a food and shares a associated memory
-
-	Reading: 
-		- _Fragrant Flashbacks_ (Stuckey p60–61)
-		- _From Womb to Tomb_ (Stuckey p157–172)
-		- _The Taste of Maturity_ (Stuckey 168–169)
-		- _The Taste and Smell of Alzheimer’s_ (Stuckey 169–171)
-		- Learning to Smell
-		- Neurogastronomy
-		- Proust was a Neuroscientist
-		- The Food of a Youngerland
+- Other than an open-mind and desire to learn, nothing is explicitly
+  necessary for the course. 
+- However, although not required, it is strongly suggested that each
+  participant obtain a journal/notebook to keep a journal during and
+  (hopefully) after the course. 
+- Readings will provided electronically. If other media are required,
+  please let the instructor know. 
 
 
-*Each Day: Present Key Ecological and Food Concepts*
+## Schedule
 
-*Ecological Concepts*
+|         | **Topic**   | **Lab**   |**Goal**     |
+|   ---   |-------------|-----------|-------------|
+|Jul 18   | Course Overview | Flavor 101 and Journaling | Cover main course topics and learn about flavor|
+|Jul 25   | Food in Your Head | How to Taste Better | Dive into neurogastronomy and learn wine/food tasting techniques |
+|Aug 1    | Food on the Land | What is terroir?  | Learn about the landscape context of food and wine |
+|Aug 8    | What is cuisine? | Flavor and Food Pairing  | Unpack what determines cuisine and how to construct flavor |
+|Aug 15   | The Future of Food | Remedial Foraging  | Glimpse of recent food trends and learn how to identify "wild" foods |
+|Aug 22   | Remembrance of Foods Past: Food and Memory | Potluck: Food Memories | Learn how food impacts memory (and visa-versa) and share our own food memories |
 
-- _Individual_: a single living organism.
-- _Species_: a group of individuals of shared decent posessing similar characteristics.
-- _Interaction_: 
-- _Population_:
-- _Community_: a collection of organisms of different species.
-- _Ecosystem_: the living and non-living components of a given location.
-- _Food web_: a description of the feeding relationships of organisms in an ecosystem. 
-- _Ecological Dyanmics_: changes in the living and/or non-living components of an ecosystem over time.
-- _Restoration_: 
-- _Management_: 
-- _Agroecology_:
-- _Traditional Ecological Knowledge (TEK)_: 
+## Readings
 
-*Eco-Culinary Concepts*
-- _Terroir_: a sense of place evoked by the flavor of food and/or drink.
-- _Local Food_: food from a culturally and/or geographically defined region.
-- _Foodways_: the intersection of culture, history and tradition related to food.
-- _Wild Food_: non-agricultural products that are eaten by humans. 
-- _Foraging_: collecting non-agricultural products. 
-- _Wabi-Sabi_: Japanese concept for the appreciation of the imperfection and impermanence of nature.
+<!-- |Jul 18   | Barber (pg1-20) Shepherd (pg1-20) | -->
+<!-- |Jul 25   | Cronon (pg55-81) Shepherd (pg1-20)  | -->
+<!-- |Aug 1    | Barber () Redzepi () McWilliams () Shepherd () | -->
+<!-- |Aug 8    | Meadows () Sherman and Dooley ()  Nilsson () Martinez ()| -->
+<!-- |Aug 15   | Shepherd ()  Baudar () Pollan () Barth () | -->
+<!-- |Aug 22   | Lehrer () | -->
 
-*Field Trips*
+There will be about one hour of reading per week, which will be posted
+electronically online. Purchasing these books is **not** required, but
+if folks would like to, concepts and laboratory materials will
+primarily be drawn from:
 
-* Foraging near Lasell Residences
-* Food of the Harvard Art Museum
-* Foraging the Fens and Victory Gardens
+* *The Third Plate* (Dan Barber)
+* *Neurogastronomy* (Gordon M. Shepherd)
+* *Taste: What you're missing* (Barb Stuckey)
 
-*The Food Lab*
+Additionally, some readings will also be included from:
 
-Look at “Taste” (Barb Stuckey) “Neurogastronomy” and “Learning to SMELL”
-
-_Lab 1_ Explore Your World
-	* How to keep a journal
-		* Name, Contact, Dates
-		* Date (Day-Month-Year)
-		* Write legibly (to others and yourself)
-		* Make changes transparent (single line through)
-		* Be descriptive and illustrative
-		* Some good examples of journals (Thoreau)
-	* Learning to love the “Good”, the “Bad” and the “Ugly”
-	* _Handout_: A Simple Guide to Describing Flavors (smell and taste)
-	* _Handout_: Object and Subject Flavor: Things taste the way they taste, sometimes you like them, sometimes you don’t. Liking a flavor depends on personal experience and can change over time. Flavors vary in the overlap in enjoyment among people.
-	* The dimensions of taste 
-		* what?: sweet, sour, bitter, savory
-		* intensity?: magnitude of flavor
-		* where?: location on tongue, mouth, throat
-		* when?: timing from initial contact to after swallowing
-	* _Spice Rack Aroma Challenge_ (Stuckey 77–78): place common spices in containers that obscure the contents but permit aromatics to be released, smell and guess. Use the help guide on page 78. 
-		* Grassy: basil, oregano, dill, sage, parsley
-		* Pungent: pepper, mustard, white pepper, ginger
-		* Warm: cinnamon, clove, allspice, cardamom, nutmeg
-		* Licorice-y: basil, fennel, caraway, anise
-		* Citrus-y: coriander, bay
-		* Musky/Dirty: cumin, white pepper
-		* Smoky: red pepper, chipotle, smoked paprika, cayenne
-		* Floral: lavender, herbes de provance
-
-_Lab 2_ What is flavor?
-	* What is smell? 
-		* Decoupling aroma and taste
-		* Olfactory biology
-		* Ortho- vs Retro-nasal olfaction
-	* What is taste? 
-		* Gustatory biology
-		* Sweet, Sour, Bitter, Salty , Umami
-	* Putting it all together: Flavor = f(Smell * Taste * Site * Touch * Hearing)
-		* 	Sense Synthesis
-			* Wine tasting (“red” vs white)
-	* _Separate Taste and Smell_ (p52): mixed jelly bean flavors, pinch nose and chew slowly and observe the flavor, release nose and observe the flavor.
-	* _Experiencing Mutual Suppression_ (p192 + 194):
-
-_Lab 3_
-_Nose- vs Mouth-Smelling_ (p75): in cups with lids that permit straws place different foods at room temperature (juice, butter, peanut butter), insert straws and breath volatiles in the headspace, then inhale through the nose, then taste.
+* *Backyard Foraging* (Ellen Zachos)
+* *NOMA* (René Redzepi)
+* *A Revolution in Eating* (James E. McWilliams)
+* *Thinking in Systems* (Donella H. Meadows)
+* *The Food of a Younger Land* (Mark Kurlansky)
+* *The New Wildcrafted Cuisine* (Pascal Baudar)
+* *Backyard Foraging* (Ellen Zachos)
+* *The Sioux Chef’s Indigenous Kitchen* (Sean Sherman and Beth Dooley)
+* *The Omnivore’s Dilemma* (Michael Pollan)
+<!-- * *Four Fish* (Paul Greenburg) -->
+<!-- * *The Potlikker Papers* (John T. Edge) -->
 
 
-_Lab 4_ Nature in a bottle: Preserving wild foods and aromas 
-	* Roots, shoots and leaves — Collecting, Drying and Using Wild Plants 
-		* Plant identification
-		* Foraging safety
-			* Drying
-			* Making _Tsuga_ Tisane
-			
-_Lab 5_ Nature in a Bottle: The Importance of Being Bitter
-	Reading: 
-		- _Bitter Means Good for You in Moderation_ (Stuckey p202)
-	* Digestion and the utility of bitters for appetizing and satiating
-	* Bitters and tinctures as essences
-	* How to make water based bitters and tinctures
-	* 	Overcoming Food Phobias (Stuckey 163–167)
-		* *neophobia* kids and bitter flavors
-		* State of mind, avoid arousal
-		* Cultivate positive perceptions
-		* Repeat exposure
-		* Use flavor principles (familiar preparations or context)
-	* “I don’t like food, I love it. And if I don’t love it, I don’t swallow.” Anton Ego in *Ratatouille* 
+## Course Leader: Matthew K. Lau (PhD.)
 
-	* - _Experiencing Mutual Suppression_ (p192 + 194): rate the bitterness of tea with sugar and with sugar and salt (2 cups tea, 4 tablespoons sugar, 1/8 tsp salt)
+Currently, Matt is an international research fellow at the Chinese
+Academy of Sciences and an external research fellow at Harvard
+University. He is currently studying the connections between
+ecosystems and global trade networks, focusing on forest and
+agricultural landscapes. He has a background in ecological systems
+theory and network analysis primarily focusing on plant associated
+fungal and insect communities. He has an un-abashed love for all
+things food (hence this course), and when not working he is usually
+looking for something to eat.
 
-_Lab 6_ Flavor “exams”:
-_Evaluating Chocolate_ (p153): compare 2+ brands of chocolate with palette cleanse using the provided evaluation chart
+Contact: MLau@Lasell.edu
 
-Making herbal glycerites:
 
-https://theherbalacademy.com/how-to-make-herbal-glycerites-tinctures-without-alcohol/
-From _Taste: What You’re Missing_ (Stuckey) 
 
-- _Taste Bud Density_ (p30): dry tongue, apply blue food coloring, apply reinforcement ring, count taste buds (0-15 Tolerant, 16-39 Taster, 40+ Hypertaster).
-- _Separate Taste and Smell_ (p52): mixed jelly bean flavors, pinch nose and chew slowly and observe the flavor, release nose and observe the flavor.
-- _Nose- vs Mouth-Smelling_ (p75): in cups with lids that permit straws place different foods at room temperature (juice, butter, peanut butter), insert straws and breath volatiles in the headspace, then inhale through the nose, then taste.
-- _Spice Rack Aroma Challenge_ (p77–78): place common spices in containers that obscure the contents but permit aromatics to be released, smell and guess. Use the help guide on page 78. 
-- _Identify Food without Texture_ (p101): get baby food of different flavors, use food coloring to equilibrate the color of foods or use blind folds, use a different spoon for each and cleanse with saltine and water (seltzer).
-- _Can Color Color Taste?_ (p114): color apple juice red, lemonade pink, white grape brown, cranberry juice purple, pear juice orange, taste with palette cleanse, guess the juice. 
-- _Blind Dining_ (p115): prepare a multi-course meal that is safe and doesn’t introduce new foods, have the diner(s) familiarize themselves with the setting, provide them with necessary implements and palette cleanser, have them dine blindfolded for half of each course and then un-blinded after guessing. 
-- _The Sounds of Foods_ (p131): have someone eat different foods (tortilla chips, potato chips, pretzels, apple, celery, carrot) and have others blinded guess what they are. 
-- _Evaluating Chocolate_ (p153): compare 2+ brands of chocolate with palette cleanse using the provided evaluation chart.
-- _Experiencing Mutual Suppression_ (p192 + 194): rate the bitterness of tea with sugar and with sugar and salt (2 cups tea, 4 tablespoons sugar, 1/8 tsp salt)
-- _Feeling Tannic_ (p212): taste the different parts of a grape (skin vs flesh).
-- _Bitter vs Sour_ (p212): taste the different parts of a lemon (juice vs pith). Also consider the aroma of the essential oils.
-- _Sweetness Profile_ (p225):
-- _Rating Sweet and Acid_ (p226): 
-- _Rank the pH of Drinks_ (p238): rank Coke, Pepsi, Orange juice, Gatorade, bottled coffee beverage, Milk, brewed coffee and compare to key on p240. 
-- _How Sweet Changes Sour Perception_ (p238): 
-- _Isolating Umami_ (p256): 
-- _Tomato Soup_ (p334): prepare tomato soup and then adjust different flavor components.
-	Reading: _Flavor Balancing: Counterpoint Ingredients_ (p330–331)
-- _15 Ways to get more out of every bite_ (p348–358)
+<!-- ## Handouts -->
+<!-- * Flavor basics (Meeting 1) -->
+<!-- * Journaling: Natural observations (Meeting 1) -->
+<!-- * How to Get Bitter (Meeting 2) -->
+<!-- 	* *15 Ways to get more out of every bite* (Stuckey p348–358) -->
+<!-- * Aroma Wheel (Meeting 2) -->
+<!-- * Wine tasting primer (Meeting 2) -->
+<!-- * Smell identification primer (Meeting 3) -->
+<!-- * Wabi-sabi and washoku (Meeting 4) -->
+<!-- * Food pairing basics (Meeting 4) -->
+<!-- 	* *Flavor Balancing: Counterpoint Ingredients* (Stuckey p330–331) -->
+<!-- * Foraging Basics (Meeting 5) -->
+<!-- * Preserving Flavor (Meeting 5) -->
+<!-- * Take Care of Your Sniffer! (Meeting 6) -->
 
--------------------------------------------------------------------------------
+
+
+<!-- ## Matt's Weekly Forage (5 minute ITEM-ization) -->
+
+<!-- * Jul 18: Dandelions -->
+<!-- * Jul 25: Milkweed Flowers and Elder Flowers -->
+<!-- * Aug 01: Sassafrass -->
+<!-- * Aug 08: Wild Garlic -->
+<!-- * Aug 15: Cherries -->
+<!-- * Aug 22: Sumac and Apples -->
+
+<!-- # Field Trips -->
+<!-- * Foraging near Lasell Residences -->
+<!-- * Food at the Museum (Harvard Art Museum) -->
+
+<!-- # Videos -->
+<!-- * Julia Child -->
+<!-- * http://www.phaidon.com/agenda/food/video/2010/december/16/the/hen/and-the-egg-rene-redzepis-signature-dish/ -->
+<!-- * /Meat Eater/ “Origins of Conservation: New Mexico Turkey -->
+<!-- * /Meat Eater/ “Why eat game from the land where you hunt” https://m.youtube.com/watch?v=9ZAdi7qPo8w&t=0s&list=PLrwvK9BVMF2dsVaJBQc_jBfMcIwUHczGa&index=14 -->
+<!-- * /Meat Eater/ “North American Model of Wildlife Conservation” https://m.youtube.com/watch?v=ukqzPNckrbg&list=PLrwvK9BVMF2dsVaJBQc_jBfMcIwUHczGa&index=27&t=0s -->
+<!-- * /The Sioux Chef/ http://sioux-chef.com/social/ -->
+<!-- * /Zagat: North America’s Original Cuisine/ https://m.youtube.com/watch?feature=youtu.be&v=uAvPUBS3EFg -->
