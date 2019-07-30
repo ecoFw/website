@@ -22,6 +22,7 @@ title: "Readings for Class"
 
 
 <!-- ## Week 3 -->
+- [Barber 78-99](pdf/readings/Barber78-99.pdf "download")
 <!-- Barber234-250.pdf -->
 <!-- Meadows86-94.pdf -->
 <!-- Zachos1-6.pdf -->
@@ -44,4 +45,3 @@ title: "Readings for Class"
 -------------------------------------------------------------------------------
 
 ![](img/feedlot_red.jpg)
-
