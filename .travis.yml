@@ -1,3 +1,15 @@
+#script:
+# Rscript BUILD.R
+#deploy:
+#   provider: pages
+#   repo: ecofw/ecofw.github.io
+#   target_branh: master
+#   local_dir: _site
+#   skip_cleanup: true
+#   github_token: $GITHUB_TOKEN # set in travis dashboard
+#   fqdn: ecologicalfoodways.org
+#   name: Travis
+
 ### FROM provtools
 #before_install:
 #  - wget https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb
