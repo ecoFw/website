@@ -1,3 +1,6 @@
+language: r
+r:
+   -release
 script:
    Rscript BUILD.R
 deploy:
