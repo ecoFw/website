@@ -15,7 +15,7 @@ script:
   - Rscript -e 'rmarkdown::render_site()'
 
 deploy:
-  provider: pages
+#  provider: pages
   repo: ecofw/ecofw.github.io   
   on:
     branch: master
