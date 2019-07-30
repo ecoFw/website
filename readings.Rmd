@@ -7,13 +7,11 @@ title: "Readings for Class"
 -------------------------------------------------------------------------------
 
 ## Week 1 
-
 - [Barber 1-22](pdf/readings/Barber1-22.pdf "Download")
 - [Shepherd 11-32](pdf/readings/Shepherd11-32.pdf "download")
 - [Davis (in Kurlansky) 80-84](pdf/readings/Kurlansky-Davis-80-84.pdf "Download")
 
 ## Week 2
-
 - [Barber 78-99](pdf/readings/Barber78-99.pdf "download")
 - [Shepherd 155-162](pdf/readings/Shepherd155-162.pdf "download")
 - [Shepherd 165-173 and 192-199](pdf/readings/Shepherd165-173_192-199.pdf "download")
@@ -21,14 +19,14 @@ title: "Readings for Class"
 - [Kurlansky 103-106](pdf/readings/Kurlansky103-106.pdf "download")
 
 
-<!-- ## Week 3 -->
-- [Barber 78-99](pdf/readings/Barber78-99.pdf "download")
-<!-- Barber234-250.pdf -->
-<!-- Meadows86-94.pdf -->
-<!-- Zachos1-6.pdf -->
+## Week 3
+- [Barber 234-250](pdf/readings/Barber234-250.pdf "download")
+- [Meadows 11-14](pdf/readings/Meadows11-14.pdf "download")
+- [Jacobson 20-28](pdf/readings/Jacobson20-28.pdf "download")
 
 
 <!-- ## Week 4 -->
+<!-- Zachos1-6.pdf -->
 <!-- Nilsson254-255.pdf -->
 <!-- Alan-Nilsson21-28.pdf -->
 <!-- Sherman-Dooley1-15-164-183.pdf -->
