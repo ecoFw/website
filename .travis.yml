@@ -1,14 +1,14 @@
-#script:
-# Rscript BUILD.R
-#deploy:
-#   provider: pages
-#   repo: ecofw/ecofw.github.io
-#   target_branh: master
-#   local_dir: _site
-#   skip_cleanup: true
-#   github_token: $GITHUB_TOKEN # set in travis dashboard
-#   fqdn: ecologicalfoodways.org
-#   name: Travis
+script:
+   Rscript BUILD.R
+deploy:
+   provider: pages
+   repo: ecofw/ecofw.github.io
+   target_branh: master
+   local_dir: _site
+   skip_cleanup: true
+   github_token: $GITHUB_TOKEN # set in travis dashboard
+   fqdn: ecologicalfoodways.org
+   name: Travis
 
 ### FROM provtools
 #before_install:
