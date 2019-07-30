@@ -1,17 +1,29 @@
 language: r
-r:
-   -release
+dist: xenial
+latex: false
+
+branches:
+  only:
+    - master
+
+cache:
+  packages: yes
+  directories:
+    - $HOME/bin
+
 script:
-   Rscript BUILD.R
+  - Rscript -e 'rmarkdown::build_site()'
+
 deploy:
-   provider: pages
-   repo: ecofw/ecofw.github.io
-   target_branh: master
-   local_dir: _site
-   skip_cleanup: true
-   github_token: $GITHUB_TOKEN # set in travis dashboard
-   fqdn: ecologicalfoodways.org
-   name: Travis
+  provider: pages
+  repo: ecofw/ecofw.github.io   
+  on:
+    branch: master
+  local_dir: _site
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # set in travis dashboard
+  fqdn: ecologicalfoodways.org
+  
 
 ### FROM provtools
 #before_install:
