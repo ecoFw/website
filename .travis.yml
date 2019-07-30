@@ -12,7 +12,7 @@ cache:
     - $HOME/bin
 
 script:
-  - Rscript -e 'rmarkdown::build_site()'
+  - Rscript -e 'rmarkdown::render_site()'
 
 deploy:
   provider: pages
