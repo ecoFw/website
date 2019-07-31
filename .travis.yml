@@ -23,6 +23,6 @@ deploy:
   local_dir: _site
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # set in travis dashboard
-  fqdn: ecologicalfoodways.org
+#  fqdn: ecologicalfoodways.org
   
-### Above is adapted from https://bookdown.org/yihui/blogdown/travis-github.html
+### Adapted from https://bookdown.org/yihui/blogdown/travis-github.html
