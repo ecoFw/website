@@ -6,6 +6,14 @@ title: "Readings for Class"
 
 -------------------------------------------------------------------------------
 
+These readings are meant to compliment and further stimulate your
+thoughts on the topics covered in class. Generally, they cover three
+topics: 
+
+1. A chef's perspective on ecological foodways (e.g. Barber, Nillson, Sherman)
+2. The neurology and physiology of flavor (e.g. Shepherd, Stuckey)
+3. Ways to observe ecological foodways (e.g. Kurlansky, Jacobson, Meadows)
+
 ## Week 1 
 - [Barber 1-22](pdf/readings/Barber1-22.pdf "Download")
 - [Shepherd 11-32](pdf/readings/Shepherd11-32.pdf "download")
