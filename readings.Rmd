@@ -34,11 +34,13 @@ topics:
 
 
 <!-- ## Week 4 -->
-<!-- Zachos1-6.pdf -->
-<!-- Nilsson254-255.pdf -->
-<!-- Alan-Nilsson21-28.pdf -->
-<!-- Sherman-Dooley1-15-164-183.pdf -->
-<!-- Jacobson20-28.pdf -->
+Meadows 165-185
+Barber 428-447
+Andoh 2-6
+Baudar 1-6
+Nilsson (Log) 20-28
+[Stuckey 331 = handout w/ medication table]
+
 
 <!-- ## Week 5 -->
 <!-- Cronon54-81.pdf -->
