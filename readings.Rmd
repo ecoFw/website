@@ -34,10 +34,10 @@ topics:
 
 
 ## Week 4
-- [Meadows 165-185](pdf/readings/meadows165-185.pdf “download”)
-- [Barber 428-447](pdf/readings/Barber428-447.pdf “download”)
-- [Andoh 2-6](pdf/readings/andoh1-9.pdf “download”)
-- [Baudar 1-9](pdf/readings/baudar1-9.pdf “download”)
+- [Meadows 165-185](pdf/readings/meadows165-185.pdf "download")
+- [Barber 428-447](pdf/readings/Barber428-447.pdf "download")
+- [Andoh 2-6](pdf/readings/andoh1-9.pdf "download")
+- [Baudar 1-9](pdf/readings/baudar1-9.pdf "download")
 	
 
 
