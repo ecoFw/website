@@ -33,14 +33,18 @@ topics:
 - [Jacobson 20-28](pdf/readings/Jacobson20-28.pdf "download")
 
 
-<!-- ## Week 4 -->
-<!-- Zachos1-6.pdf -->
-<!-- Nilsson254-255.pdf -->
-<!-- Alan-Nilsson21-28.pdf -->
-<!-- Sherman-Dooley1-15-164-183.pdf -->
-<!-- Jacobson20-28.pdf -->
+## Week 4
+- [Meadows 165-185](pdf/readings/meadows165-185.pdf “download”)
+- [Barber 428-447](pdf/readings/Barber428-447.pdf “download”)
+- [Andoh 2-6](pdf/readings/andoh1-9.pdf “download”)
+- [Baudar 1-9](pdf/readings/baudar1-9.pdf “download”)
+	
+
+
 
 <!-- ## Week 5 -->
+<!-- - [Nilsson 20-28](pdf/readings/ “download”) —>
+
 <!-- Cronon54-81.pdf -->
 <!-- Shepherd on Memory -->
 <!-- Stuckey on Memory -->
