@@ -42,17 +42,17 @@ topics:
 - [Baudar 1-9](pdf/readings/baudar1-9.pdf "download")
 	
 
+## Week 5
+- [Sherman and Dooley 1-27](pdf/readings/sherman_sioux_chef.pdf “download”)
+- [Humphreys 1-21](pdf/readings/Humphreys1-21.pdf “download”)
+- [Shepherd 233-241](pdf/readings/Shepherd233-241.pdf “download”)
+- [Noonan 2017](pdf/readings/NoonanSciAm2017.pdf “download”)
 
-
-<!-- ## Week 5 -->
-<!-- - [Nilsson 20-28](pdf/readings/ “download”) —>
-
-<!-- Cronon54-81.pdf -->
-<!-- Shepherd on Memory -->
-<!-- Stuckey on Memory -->
 
 <!-- ## Week 6 -->
-<!-- Barber428-447.pdf -->
+<!-- - [Nilsson 20-28](pdf/readings/ “download”)  -->
+<!-- Cronon54-81.pdf
+
 
 -------------------------------------------------------------------------------
 
