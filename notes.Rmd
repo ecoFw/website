@@ -8,7 +8,7 @@ title: "Notes from class including discussions and activities"
 - [Day 2](pdf/notes/efw_day2.pdf "Download")
 - [Day 3](pdf/notes/efw_day3.pdf "Download")
 - [Day 4](pdf/notes/efw_day4.pdf "Download")
-- Day 5
+- [Day 5](pdf/notes/efw_day5.pdf "Download")
 - Day 6
 
 -------------------------------------------------------------------------------
