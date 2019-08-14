@@ -3,13 +3,13 @@ title: "Handouts"
 ---
 -------------------------------------------------------------------------------
 
-[EFw_journaling.pdf](pdf/handouts/EFw_journaling.pdf "Download")
+[EFw_journaling.pdf](pdf/handouts/EFw_journaling.pdf)
 
-[Tasting_Basics.pdf](pdf/handouts/Tasting_Basics.pdf "Download")
+[Tasting_Basics.pdf](pdf/handouts/Tasting_Basics.pdf)
 
 [Wine Aroma Wheel (Wine Folly)](https://winefolly.com/wp-content/uploads/2014/08/Wine-Aroma-Flavor-Chart-Wheel.jpg)
 
-[Finding Fuller Flavor](pdf/handouts/Finding_Fuller_Flavor.pdf "Download")
+[Finding Fuller Flavor](pdf/handouts/Finding_Fuller_Flavor.pdf)
 -------------------------------------------------------------------------------
 
 ![](img/still_life.png) 

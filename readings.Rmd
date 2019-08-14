@@ -1,4 +1,4 @@
----
+--
 title: "Readings for Class"
 ---
 
@@ -17,40 +17,40 @@ topics:
 **If you are using a mobile device (e.g., tablet, phone, e-reader), you may need to hold the links and select "Open in a New Tab".**
 
 ## Week 1 
-- [Barber 1-22](pdf/readings/Barber1-22.pdf "Download")
+- [Barber 1-22](pdf/readings/Barber1-22.pdf)
 - [Shepherd 11-32](pdf/readings/Shepherd11-32.pdf "download")
-- [Davis (in Kurlansky) 80-84](pdf/readings/Kurlansky-Davis-80-84.pdf "Download")
+- [Davis (in Kurlansky) 80-84](pdf/readings/Kurlansky-Davis-80-84.pdf)
 
 ## Week 2
-- [Barber 78-99](pdf/readings/Barber78-99.pdf "download")
-- [Shepherd 155-162](pdf/readings/Shepherd155-162.pdf "download")
-- [Shepherd 165-173 and 192-199](pdf/readings/Shepherd165-173_192-199.pdf "download")
-- [Shepherd 210-211](pdf/readings/Shepherd210-211.pdf "download")
-- [Kurlansky 103-106](pdf/readings/Kurlansky103-106.pdf "download")
+- [Barber 78-99](pdf/readings/Barber78-99.pdf)
+- [Shepherd 155-162](pdf/readings/Shepherd155-162.pdf)
+- [Shepherd 165-173 and 192-199](pdf/readings/Shepherd165-173_192-199.pdf)
+- [Shepherd 210-211](pdf/readings/Shepherd210-211.pdf)
+- [Kurlansky 103-106](pdf/readings/Kurlansky103-106.pdf)
 
 
 ## Week 3
-- [Barber 234-250](pdf/readings/Barber234-250.pdf "download")
-- [Meadows 11-14](pdf/readings/Meadows11-14.pdf "download")
-- [Jacobson 20-28](pdf/readings/Jacobson20-28.pdf "download")
+- [Barber 234-250](pdf/readings/Barber234-250.pdf)
+- [Meadows 11-14](pdf/readings/Meadows11-14.pdf)
+- [Jacobson 20-28](pdf/readings/Jacobson20-28.pdf)
 
 
 ## Week 4
-- [Meadows 165-185](pdf/readings/meadows165-185.pdf "download")
-- [Barber 428-447](pdf/readings/Barber428-447.pdf "download")
-- [Andoh 2-6](pdf/readings/andoh1-9.pdf "download")
-- [Baudar 1-9](pdf/readings/baudar1-9.pdf "download")
+- [Meadows 165-185](pdf/readings/meadows165-185.pdf)
+- [Barber 428-447](pdf/readings/Barber428-447.pdf)
+- [Andoh 2-6](pdf/readings/andoh1-9.pdf)
+- [Baudar 1-9](pdf/readings/baudar1-9.pdf)
 	
 
 ## Week 5
-- [Sherman and Dooley 1-27](pdf/readings/sherman_sioux_chef.pdf “download”)
-- [Humphreys 1-21](pdf/readings/Humphreys1-21.pdf “download”)
-- [Shepherd 233-241](pdf/readings/Shepherd233-241.pdf “download”)
-- [Noonan 2017](pdf/readings/NoonanSciAm2017.pdf “download”)
+- [Sherman and Dooley 1-27](pdf/readings/sherman_sioux_chef.pdf)
+- [Humphreys 1-21](pdf/readings/Humphreys1-21.pdf)
+- [Shepherd 233-241](pdf/readings/Shepherd233-241.pdf)
+- [Noonan 2017](pdf/readings/NoonanSciAm2017.pdf)
 
 
 <!-- ## Week 6 -->
-<!-- - [Nilsson 20-28](pdf/readings/ “download”)  -->
+<!-- - [Nilsson 20-28](pdf/readings/)  -->
 <!-- Cronon54-81.pdf
 
 
