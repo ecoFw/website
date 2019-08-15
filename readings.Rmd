@@ -49,7 +49,7 @@ topics:
 - [Noonan 2017](pdf/readings/NoonanSciAm2017.pdf)
 
 
-<!-- ## Week 6 -->
+## Week 6 
 - [Nilsson 20-28](pdf/readings/Nilsson21-28.pdf)
 - [Cronon 54-81](pdf/readings/Cronon54-81.pdf)
 -
