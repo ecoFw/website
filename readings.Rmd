@@ -52,8 +52,7 @@ topics:
 ## Week 6 
 - [Nilsson 20-28](pdf/readings/Nilsson21-28.pdf)
 - [Cronon 54-81](pdf/readings/Cronon54-81.pdf)
--
-https://www.edibleboston.com/blog/2018/6/11/russ-cohens-wild-edible-adventures
+- https://www.edibleboston.com/blog/2018/6/11/russ-cohens-wild-edible-adventures
 - https://www.edibleboston.com/blog/50-x-60-a-new-england-food-vision
 
 -------------------------------------------------------------------------------
