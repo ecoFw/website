@@ -44,7 +44,7 @@ topics:
 
 ## Week 5
 - [Sherman and Dooley 1-27](pdf/readings/sherman_sioux_chef.pdf)
-- [Humphreys 1-21](pdf/readings/humphreys1-21.pdf)
+- [Humphreys 1-21](pdf/readings/humphreys1-22.pdf)
 - [Shepherd 233-241](pdf/readings/Shepherd233-241.pdf)
 - [Noonan 2017](pdf/readings/NoonanSciAm2017.pdf)
 
