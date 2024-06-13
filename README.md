@@ -1,4 +1,4 @@
-Ecological Foodways Website
+Hawai‘i Climate Smart Agriculture Resource Hub
 ---------------------------
 
 [![Build Status](https://travis-ci.org/ecoFw/website.svg?branch=master)](https://travis-ci.org/ecoFw/website)

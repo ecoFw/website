@@ -39,7 +39,8 @@ use the tool:
 
 This project is made possible with financial support from Honolulu
 City and County Office of Climate Change, Sustainability and
-Resilience. 
+Resilience
+([https://www.resilientoahu.org/](https://www.resilientoahu.org/ "https://www.resilientoahu.org/")). 
 
 
 

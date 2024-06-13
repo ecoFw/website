@@ -17,12 +17,9 @@ script:
 deploy:
   provider: pages
   repo: ecofw/ecofw.github.io   
-  target_branch: master
   on:
     branch: master
   local_dir: _site
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN # set in travis dashboard
-#  fqdn: ecologicalfoodways.org
-  
+
 ### Adapted from https://bookdown.org/yihui/blogdown/travis-github.html
