@@ -1,20 +1,10 @@
-name: "Ecological Foodways"
+name: "Hawai‘i CSA Resource Hub"
 output_dir: "_site"
 navbar:
-  title: "Ecological Foodways"
+  title: "Hawai‘i CSA Resource Hub"
   left:
     - text: ""
       href: index.html
-    - text: "Syllabus"
-      href: index.html
-    - text: "Notes"
-      href: notes.html
-    - text: "Handouts"
-      href: handouts.html
-    - text: "Readings"
-      href: readings.html
-    - text: "About"
-      href: about.html
 exclude: ["CHECKLIST.md", "README", "empty.Rmd"]
 output:
   html_document:
