@@ -20,8 +20,8 @@ use the tool:
 - Read about and follow the links to the resources. 
 - Information for the selected practices can be exported by clicking
   on the `Download Selected Rows` button. 
-- At any time, the entire list of practices can cleared via the
-  `Deselect All` button and re-selected by refreshing the webpage. 
+- At any time, the selected practices can be cleared and re-selected
+  in their entirety using the `Deselect All` and `Select All` buttons.
 
 # More information:
 
