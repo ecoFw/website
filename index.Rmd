@@ -6,7 +6,7 @@ Agricultural practices are a key adaptation for both addressing
 contributing factors to climate change and mitigating
 impacts. Resources for supporting current activities and transitions
 to CSA practices are increasingly available from multiple sources. The
-Hawai‘i CSA Toolbox compiles and provides a means to more effectively
+Hawai‘i CSA Resource Webtool provides a way to more effectively
 navigate these resources.
 
 # Using the Interface
@@ -41,11 +41,11 @@ Honolulu Office of Climate Change, Sustainability and Resilience
 ([https://www.resilientoahu.org/](https://www.resilientoahu.org/)). Development is made possible by
 the following team of collaborators:
 
-Dr. Matthew Kekoa Lau, UH West O‘ahu (lead)
-Lucas McKinnon, Hawai‘i Good Food Alliance
-Jackson Hart, Pacific Gateway Center
-Jason Shawn, Honolulu City and County
-Amanda Shaw, O‘ahu Agriculture and Conservation Association (OACA)
+Dr. Matthew Kekoa Lau, UH West O‘ahu (co-lead) \
+Lucas McKinnon, Hawai‘i Good Food Alliance (co-lead) \
+Jackson Hart, Pacific Gateway Center  \
+Jason Shawn, Honolulu City and County \
+Amanda Shaw, O‘ahu Agriculture and Conservation Association (OACA) \
 
 
 
