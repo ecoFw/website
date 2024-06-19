@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Hawai‘i CSA Resource Webtool"
 ---
-
-# Hawai‘i Climate Smart Agriculture (CSA)
 
 Agricultural practices are a key adaptation for both addressing
 contributing factors to climate change and mitigating
@@ -28,20 +26,26 @@ use the tool:
 # More information:
 
 - Please submit feature requests and bugs to the
-  [issues](https://github.com/ecoFw/hicsatool/issues "issues") system.
+  [issues](https://forms.gle/eRzdRQ3W6NRcDQGA6) system.
 - More details of the database project, including the data pipeline
   for  can be found in
   [hi-csa-db.pdf](https://github.com/ecoFw/hi-csa-db/blob/9a50b0bf0bb518dd775fa189e8a691efa9275b18/hi-csa-db.pdf "hi-csa-db.pdf").
-- For more information, contact Dr. Matthew Kekoa Lau [mklau3@hawaii.edu](mklau3@hawaii.edu "mklau3@hawaii.edu").
+- Contact Dr. Matthew Kekoa Lau [mklau3@hawaii.edu](mklau3@hawaii.edu
+  "mklau3@hawaii.edu") for further questions about the project.
 
 
 # Project Funding and Support
 
-This project is made possible with financial support from Honolulu
-City and County Office of Climate Change, Sustainability and
-Resilience
-([https://www.resilientoahu.org/](https://www.resilientoahu.org/ "https://www.resilientoahu.org/")). 
+This project is supported by a grant from the City and County of
+Honolulu Office of Climate Change, Sustainability and Resilience
+([https://www.resilientoahu.org/](https://www.resilientoahu.org/)). Development is made possible by
+the following team of collaborators:
 
+Dr. Matthew Kekoa Lau, UH West O‘ahu (lead)
+Lucas McKinnon, Hawai‘i Good Food Alliance
+Jackson Hart, Pacific Gateway Center
+Jason Shawn, Honolulu City and County
+Amanda Shaw, O‘ahu Agriculture and Conservation Association (OACA)
 
 
 
