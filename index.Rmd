@@ -9,19 +9,20 @@ to CSA practices are increasingly available from multiple sources. The
 Hawai‘i CSA Resource Webtool provides a way to more effectively
 navigate these resources.
 
-# Using the Interface
+# How to Use the Webtool
 
-Our team has compiled a database of CSA resources that can be accessed
-at
-[https://uhwo.shinyapps.io/hicsatool](https://uhwo.shinyapps.io/hicsatool). To
-use the tool: 
-
+- Our team has compiled a database of CSA resources that can be accessed
+via a web interface.
 - Select the CSA practices of interest. 
 - Read about and follow the links to the resources. 
 - Information for the selected practices can be exported by clicking
   on the `Download Selected Rows` button. 
 - At any time, the selected practices can be cleared and re-selected
   in their entirety using the `Deselect All` and `Select All` buttons.
+
+<center><b><form action="https://uhwo.shinyapps.io/hicsatool" method="get"
+target="_blank"><button type="submit">Start Here</button></form></b></center>
+
 
 # More information:
 
@@ -44,7 +45,7 @@ the following team of collaborators:
 Dr. Matthew Kekoa Lau, UH West O‘ahu (co-lead) \
 Lucas McKinnon, Hawai‘i Good Food Alliance (co-lead) \
 Jackson Hart, Pacific Gateway Center  \
-Jason Shawn, Honolulu City and County \
+Jason Shon, Honolulu City and County \
 Amanda Shaw, O‘ahu Agriculture and Conservation Association (OACA) \
 
 
