@@ -37,7 +37,7 @@ use the tool:
 # Project Funding and Support
 
 This project is supported by a grant from the City and County of
-Honolulu Office of Climate Change, Sustainability and Resilience
+Honolulu Office of Climate Change, Sustainability and Resiliency
 ([https://www.resilientoahu.org/](https://www.resilientoahu.org/)). Development is made possible by
 the following team of collaborators:
 
