@@ -1,5 +1,5 @@
 ---
-title: "Hawai‘i CSA Resource Webtool"
+title: "Hawai‘i Climate Smart Agriculture Resources"
 ---
 
 Agricultural practices are a key adaptation for both addressing
