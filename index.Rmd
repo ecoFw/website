@@ -15,7 +15,7 @@ navigate these resources.
 via a web interface.
 - Select the CSA practices of interest. 
 - Read about and follow the links to the resources. 
-- There are three types of resources:
+- There are three **types** of resources:
   - *Policy*: information related to governance documents that
     define/proscribe CSA practices. 
   - *Technical*: topical information about CSA practices, particularly
