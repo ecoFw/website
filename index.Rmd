@@ -15,6 +15,14 @@ navigate these resources.
 via a web interface.
 - Select the CSA practices of interest. 
 - Read about and follow the links to the resources. 
+- There are three types of resources:
+  - *Policy*: information related to governance documents that
+    define/proscribe CSA practices. 
+  - *Technical*: topical information about CSA practices, particularly
+    implementation. 
+  - *Support*: resources to activate CSA practices. 
+- Resources can be alphabetically sorted by clicking on the column
+  headers.
 - Information for the selected practices can be exported by clicking
   on the `Download Selected Rows` button. 
 - At any time, the selected practices can be cleared and re-selected
